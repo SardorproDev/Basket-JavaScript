@@ -49,7 +49,7 @@ window.addEventListener("DOMContentLoaded", () => {
       btn.remove();
       filed.appendChild(cloneItem);
       // item.textContent = "Svatga qo'shildi";
-      products[i].remove();
+      products[index].remove();
     });
   });
 });
